@@ -1,4 +1,4 @@
-# TSCC
+# TSCC (temporary fork for TS 3.8)
 
 [![tscc npm version](https://img.shields.io/npm/v/@tscc/tscc.svg?style=popout&color=blue&label=%40tscc%2Ftscc)](https://www.npmjs.com/package/@tscc/tscc)
 [![rollup-plugin-tscc npm version](https://img.shields.io/npm/v/@tscc/rollup-plugin-tscc.svg?style=popout&color=blue&label=%40tscc%2Frollup-plugin-tscc)](https://www.npmjs.com/package/@tscc/rollup-plugin-tscc)
